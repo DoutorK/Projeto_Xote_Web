@@ -120,6 +120,9 @@ export default function Home() {
             </div>
           </div>
         </div>
+        <div className='divBanner'>
+            <img src="./public/banner_xote.jpg" className='bannerXote' />
+        </div>
         
       </main>
       <Footer />

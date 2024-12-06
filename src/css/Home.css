@@ -33,6 +33,19 @@ h2 {
     text-align: center; /* Centraliza o título */
 }
 
+.bannerXote{
+    height: 40rem;
+    width: 100rem;
+
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.divBanner{
+    display: flex;
+    justify-content: center;
+}
 
 /* Links */
 .links {
